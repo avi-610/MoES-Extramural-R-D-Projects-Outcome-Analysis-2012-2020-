@@ -1,4 +1,4 @@
-# MoES-Extramural-R-D-Projects-Outcome-Analysis-2012-2020-
+# MoES-Extramural-R&D-Projects-Outcome-Analysis-2012-2020-
 Outcome analysis of 234 EMR projects across 5 thematic areas under the Ministry of Earth Sciences (MoES), Government of India - covering research outputs, collaborations, and societal impact through data analysis and Power BI dashboards.
 
 **Overview**
